@@ -1187,9 +1187,7 @@ About 2
     right: 0;
     top: 0;
 }
-.htc__mission__container {
-    padding: 89px 0;
-}
+
 .htc__mission__container .single__mission + .single__mission {
     margin-top: 50px;
 }
